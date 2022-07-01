@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\seminar_1\\seminar_1.csproj": {}
+    "C:\\ya\\YandexDisk\\!обучение geekbrains\\9.c#\\seminar_1\\seminar_1.csproj": {}
   },
   "projects": {
-    "D:\\c#\\seminar_1\\seminar_1.csproj": {
+    "C:\\ya\\YandexDisk\\!обучение geekbrains\\9.c#\\seminar_1\\seminar_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\seminar_1\\seminar_1.csproj",
+        "projectUniqueName": "C:\\ya\\YandexDisk\\!обучение geekbrains\\9.c#\\seminar_1\\seminar_1.csproj",
         "projectName": "seminar_1",
-        "projectPath": "D:\\c#\\seminar_1\\seminar_1.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\seminar_1\\obj\\",
+        "projectPath": "C:\\ya\\YandexDisk\\!обучение geekbrains\\9.c#\\seminar_1\\seminar_1.csproj",
+        "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
+        "outputPath": "C:\\ya\\YandexDisk\\!обучение geekbrains\\9.c#\\seminar_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

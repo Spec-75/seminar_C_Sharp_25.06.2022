@@ -13,3 +13,11 @@ D:\c#\seminar_1\obj\Debug\net6.0\refint\seminar_1.dll
 D:\c#\seminar_1\obj\Debug\net6.0\seminar_1.pdb
 D:\c#\seminar_1\obj\Debug\net6.0\seminar_1.genruntimeconfig.cache
 D:\c#\seminar_1\obj\Debug\net6.0\ref\seminar_1.dll
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.csproj.AssemblyReference.cache
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.AssemblyInfoInputs.cache
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.AssemblyInfo.cs
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.csproj.CoreCompileInputs.cache
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.dll
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\refint\seminar_1.dll
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.pdb

@@ -2,16 +2,18 @@
 // 78 -> 8 
 // 12-> 2 
 // 85 -> 8
+
 int number = new Random().Next(10,100);//[10,100] 100 не входит
 Console.WriteLine($"Рандомное число: {number}");//интерполяция
 int digitOne = number / 10; //45->4
 int digitTwo = number % 10; //45->5
 Console.WriteLine($"Первая цифра нашего числа: {digitOne}");
 Console.WriteLine($"Вторая цифра нашего числа: {digitTwo}");
-int max = Math.Max(digitOne,digitTwo);//max(1 числоб, 2число) Max печатает сам ое борльшое число из двух
+int max = Math.Max(digitOne,digitTwo);//max(1 число, 2число) Max печатает самое борльшое число из двух
 Console.WriteLine("Самое большое число:" + max);
+
 //int max = Math.Max(digitOne,digitTwo); // Max(1 число, 2 число), Max печатает самое большое число на экран среди 2
-Console.WriteLine("Самое большое число: " + max);
+//Console.WriteLine("Самое большое число: " + max);
 
 //Напишите программу, которая выводит случайное трёхзначное число и удаляет вторую цифру этого числа.
 // 456 -> 46
@@ -19,7 +21,7 @@ Console.WriteLine("Самое большое число: " + max);
 // 918 -> 98
 
 
-// int number = new Random().Next(100,1000);//[10,100] 100 не входит
+// int number = new Random().Next(100,1000);//[10,1000] 1000 не входит
 // Console.WriteLine($"Рандомное число: {number}");//интерполяция
 // int digitOne = number / 100; //45->4
 // int digitTree = number % 10; //45->5
