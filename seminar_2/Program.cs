@@ -3,14 +3,14 @@
 // 12-> 2 
 // 85 -> 8
 
-int number = new Random().Next(10,100);//[10,100] 100 не входит
-Console.WriteLine($"Рандомное число: {number}");//интерполяция
-int digitOne = number / 10; //45->4
-int digitTwo = number % 10; //45->5
-Console.WriteLine($"Первая цифра нашего числа: {digitOne}");
-Console.WriteLine($"Вторая цифра нашего числа: {digitTwo}");
-int max = Math.Max(digitOne,digitTwo);//max(1 число, 2число) Max печатает самое борльшое число из двух
-Console.WriteLine("Самое большое число:" + max);
+// int number = new Random().Next(10,100);//[10,100] 100 не входит
+// Console.WriteLine($"Рандомное число: {number}");//интерполяция
+// int digitOne = number / 10; //45->4
+// int digitTwo = number % 10; //45->5
+// Console.WriteLine($"Первая цифра нашего числа: {digitOne}");
+// Console.WriteLine($"Вторая цифра нашего числа: {digitTwo}");
+// int max = Math.Max(digitOne,digitTwo);//max(1 число, 2число) Max печатает самое борльшое число из двух
+// Console.WriteLine("Самое большое число:" + max);
 
 //int max = Math.Max(digitOne,digitTwo); // Max(1 число, 2 число), Max печатает самое большое число на экран среди 2
 //Console.WriteLine("Самое большое число: " + max);
@@ -66,9 +66,9 @@ Console.WriteLine("Самое большое число:" + max);
 // 46 -> нет 
 // 161 -> да
 
-// int number = Convert.ToInt32(Console.ReadLine());
-// bool paritycheck (int number)
-// {
-//     return(number % 7 == 0 && number % 23 == 0);//True, false
-// }
-// Console.WriteLine(paritycheck(number));
+int number = Convert.ToInt32(Console.ReadLine());
+bool paritycheck (int number)
+{
+    return(number % 7 == 0 && number % 23 == 0);//True, false
+}
+Console.WriteLine(paritycheck(number));

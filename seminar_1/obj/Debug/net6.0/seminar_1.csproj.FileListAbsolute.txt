@@ -21,3 +21,10 @@ C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\se
 C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.dll
 C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\refint\seminar_1.dll
 C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.pdb
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\bin\Debug\net6.0\seminar_1.exe
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\bin\Debug\net6.0\seminar_1.deps.json
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\bin\Debug\net6.0\seminar_1.runtimeconfig.json
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\bin\Debug\net6.0\seminar_1.dll
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\bin\Debug\net6.0\seminar_1.pdb
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\seminar_1.genruntimeconfig.cache
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\seminar_1\obj\Debug\net6.0\ref\seminar_1.dll
